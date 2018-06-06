@@ -6,6 +6,7 @@ public class Main {
         ArrayList<Mamifero> eu = new ArrayList<Mamifero>();
         Scanner bot = new Scanner(System.in);
         eu.add(new Individuo());
+
         eu.add(new Individuo());
         for (int i = 0; i < 2; i++) {
             System.out.println("nome da pessoa");
